@@ -1,0 +1,7 @@
+﻿status;stunden_gesamt;tickets_mit_status;anteil_pct
+Active;1414210,1;15013;34,4
+Awaiting User Info;1230444,1;5471;30,0
+New;1084554,3;16397;26,4
+Awaiting Vendor;270924,0;259;6,6
+Awaiting Problem;92949,1;247;2,3
+Awaiting Evidence;12295,6;21;0,3

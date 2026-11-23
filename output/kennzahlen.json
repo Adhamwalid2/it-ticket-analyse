@@ -1,0 +1,14 @@
+{
+  "tickets": 24918,
+  "zeitraum_von": "2016-02-29",
+  "zeitraum_bis": "2017-02-16",
+  "sla_quote_pct": 63.4,
+  "anteil_weitergeleitet_pct": 45.6,
+  "anteil_wiedereroeffnet_pct": 1.1,
+  "median_loesungszeit_h": 22.1,
+  "sla_0_weiterleitungen_pct": 78.4,
+  "sla_3plus_weiterleitungen_pct": 25.0,
+  "median_h_0_weiterleitungen": 0.7,
+  "median_h_3plus_weiterleitungen": 191.8,
+  "anteil_warten_auf_nutzer_pct": 30.0
+}

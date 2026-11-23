@@ -1,0 +1,5 @@
+﻿prioritaet;tickets;sla_quote_pct;mittlere_loesungszeit_h;weiterleitungen_schnitt;median_loesungszeit_h
+1 - Critical;270;1,9;266,1;1,16;80,2
+2 - High;408;0,5;152,5;1,46;38,2
+3 - Moderate;23466;64,5;174,4;0,93;21,6
+4 - Low;774;84,1;283,2;0,81;5,0
